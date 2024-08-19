@@ -1,5 +1,10 @@
-body {
-    margin: 0;
+body{
+  margin: 0;
+  background-color: rgb(226, 226, 226);
+}
+  p{
+    font-family: arial;
+    
   }
   .first-header {
     display: flex;
@@ -29,10 +34,52 @@ body {
     color: rgb(211, 211, 211);
   }
   .second-header{
-    background-color: rgb(204, 199, 199);
-    height: 400px;
+   height: 400px;
     display: flex;
     align-items: center;
 text-align: center;
 justify-content: center;
+font-size: 32px;
+background-color:rgb(211, 211, 211);
+
   }
+  .image-next{
+    margin-right: 30px;
+  }
+.third-header{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  background-color: rgb(143, 90, 12);
+  height: 380px;
+  align-items: center;
+}
+.third-img{
+  padding: 55px;
+
+
+}
+.img{
+  height: 220px;
+}
+.text{
+  justify-content: center;
+  text-align: center;
+  font-size:25px ;
+  
+}
+.last-header{
+  font-size: 20px;
+  justify-content:center;
+  text-align: center;
+  align-items: center;
+  background-color: rgb(0, 0, 36);
+  color: rgb(184, 180, 180);
+  height: 20px;
+margin-top: 100px;
+
+  
+  
+
+
+}
