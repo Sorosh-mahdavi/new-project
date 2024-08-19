@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+  }
+  .first-header {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    font-size: 25px;
+    gap: 10px;
+    background-color: rgb(1, 53, 53);
+    padding-left: 20px;
+  }
+  .two-first-header {
+    display: flex;
+    gap: 40px;
+    height: 30px;
+    margin-right: 40px;
+    padding-top: 35px;
+  }
+  .button {
+    width: 80px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(1, 82, 82);
+    color: rgb(211, 211, 211);
+    cursor: pointer;
+  }
+  .h6 {
+    color: rgb(211, 211, 211);
+  }
+  .second-header{
+    background-color: rgb(204, 199, 199);
+    height: 400px;
+    display: flex;
+    align-items: center;
+text-align: center;
+justify-content: center;
+  }
